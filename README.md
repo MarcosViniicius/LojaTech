@@ -10,3 +10,6 @@ Este projeto consiste em um modelo de e-commerce para uma loja de eletrônicos o
   - **css:** Arquivos de estilo, incluindo "globals.css".
   - **img:** Imagens utilizadas no projeto.
   - **js:** Scripts JavaScript, como "product.js" e "cart.js".
+ 
+## Link de acesso ao projeto
+- https://marcosviniicius.github.io/LojaTech/
